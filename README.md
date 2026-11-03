@@ -1,8 +1,6 @@
 <h1 align="center">Hello stranger, I am Ateromaden.</h1>
 <h3 align="center">I am an informatics engineering student from Indonesia.</h3>
 
-- 🔭 I’m currently working on **m**
-
 - 🌱 I’m currently learning **framework, mobile apps, website, and so many more**
 
 - 💬 Ask me about **everything**
